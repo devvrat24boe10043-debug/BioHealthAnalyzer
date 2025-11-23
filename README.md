@@ -42,8 +42,8 @@ A Java-based console application for managing patient data and analyzing medical
 4. Run application:
    java src/Main
 
-Code Details & Architecture
-Class Structure
+**Code Details & Architecture**
+Class Structure:
 Main.java: Entry point with menu-driven interface
 
 Patient.java: Patient data model with personal information
@@ -54,21 +54,21 @@ HealthAnalyzer.java: Health risk analysis algorithms
 
 FileManager.java: File I/O operations for data persistence
 
-Key Algorithms
+Key Algorithms:
 Blood pressure classification (Hypotension/Normal/Hypertension)
 
 Heart rate evaluation (Bradycardia/Normal/Tachycardia)
 
 Temperature assessment (Hypothermia/Normal/Fever)
 
-Data Storage
+Data Storage:
 CSV-style file format for patient records
 
 Automatic data loading on startup
 
 Persistent storage on application exit
 
-Usage Guide
+Usage Guide:
 Launch application using above instructions
 
 Follow menu prompts to:
@@ -83,22 +83,26 @@ Analyze health metrics (Option 4)
 
 Exit and save data (Option 5)
 
-Medical Analysis Parameters
+Medical Analysis Parameters:
 Blood Pressure: Clinical hypertension/hypotension thresholds
 
 Heart Rate: Standard bradycardia/tachycardia ranges
 
 Body Temperature: Medical fever/hypothermia criteria
 
-Project Context
-Developed as part of VITyarthi Java curriculum application to bioengineering data management.
+**Project Context**
+Developed as part of VITyarthi Java curriculum application to medical data management.
 
-## **🎯 ACTION STEPS:**
+---
 
-1. **Go to your README.md** on GitHub
-2. **Click pencil icon** ✏️ to edit
-3. **DELETE everything** currently there
-4. **PASTE the exact text above**
-5. **Scroll down**
-6. **Commit message:** `Complete README with technical documentation`
-7. **Click:** "Commit changes"
+## **🚀 FINAL FIX:**
+
+1. **Go to README.md** on GitHub
+2. **Click edit** (pencil icon)
+3. **DELETE everything**
+4. **PASTE the corrected version above**
+5. **Commit message:** `Fix README formatting and structure`
+6. **Click:** "Commit changes"
+
+---
+
