@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-
+// File operations with comprehensive error handling and data validation
 public class FileManager {
     
     // Save patients to file
