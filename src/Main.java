@@ -4,7 +4,7 @@ public class Main {
     private static ArrayList<Patient> patients = new ArrayList<>();
     private static ArrayList<MedicalRecord> medicalRecords = new ArrayList<>();
     private static Scanner scanner = new Scanner(System.in);
-    
+    // User-friendly menu system with input validation and error handling
     public static void main(String[] args) {
         System.out.println("=== BIOHEALTH ANALYZER ===");
         System.out.println("Medical Data Analysis System");
