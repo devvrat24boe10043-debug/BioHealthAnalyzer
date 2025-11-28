@@ -4,7 +4,7 @@ public class Patient {
     private int age;
     private String gender;
     private String contact;
-    
+    // Patient data validation standards: Age 0-150, Name letters only, Gender M/F, Contact 10 digits
     public Patient(String id, String name, int age, String gender, String contact) {
         this.id = id;
         this.name = name;
