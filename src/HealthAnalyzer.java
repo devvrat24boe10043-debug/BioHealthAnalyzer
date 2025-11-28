@@ -1,3 +1,4 @@
+// Medical analysis based on clinical standards: AHA BP guidelines, standard heart rate ranges
 public class HealthAnalyzer {
     public static String analyzeBloodPressure(double bp) {
         if (bp < 90) return "LOW (Hypotension)";
