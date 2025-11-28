@@ -1,3 +1,4 @@
+// MedicalRecord class: Comprehensive health data storage with file serialization support
 public class MedicalRecord {
     private String patientId;
     private double bloodPressure;
